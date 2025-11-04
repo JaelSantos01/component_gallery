@@ -80,7 +80,9 @@ A continuación se muestran ejemplos visuales de los componentes desarrollados:
    git clone https://github.com/JaelSantos01/component_gallery.git
    cd component_gallery
 2. Instalar dependencias:
+   ```bash
    flutter pub get
 3. Ejecuta la app:
+   ```bash
    flutter run
 
